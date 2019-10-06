@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio2_3</string>
+    <string name="btnEncender">Encender</string>
+    <string name="btnApagar">Apagar</string>
+</resources>
